@@ -39,7 +39,7 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 - Instale as dependências com `yarn`;
 - Inicie o servidor com `yarn dev`;
 
-A aplicação pode ser acessada em [`localhost:4000`](http://localhost:3000)
+A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000)
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
